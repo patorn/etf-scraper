@@ -1,6 +1,6 @@
 # borrowed from https://github.com/simonw/ca-fires-history/blob/main/.github/workflows/scrape.yml
 
-name: Scrape latest data
+name: Scrape latest data of MOON
 
 on:
   push:
@@ -26,19 +26,4 @@ jobs:
         git add -A
         timestamp=$(date -u)
         git commit -m "[MOON] Latest data: ${timestamp}" || exit 0
-        git push
-    - name: Check out this repo
-      uses: actions/checkout@v2
-    - name: Fetch latest data of BLOK
-      run: |-
-        mkdir -p blok
-        cd blok
-        curl https://amplifyetfs.com/Data/Feeds/ForesideAmplify.40XL.XL_Holdings.csv | python3 ../lintcsv.py > blok_holdings.csv
-    - name: Commit and push if it changed
-      run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "[BLOK] Latest data: ${timestamp}" || exit 0
         git push
