@@ -1,73 +1,448 @@
-"<!DOCTYPE html>"
+"<!doctype html>"
 "<html lang=""en-US"">"
 <head>
-"	<meta charset=""UTF-8"" />"
-"	<title>Site is undergoing maintenance</title>	<link rel=""icon"" href=""https://amplifyetfs.com/wp-content/uploads/2020/10/favicon.ico"" sizes=""32x32"" />"
+"	<meta charset=""UTF-8"">"
+"		<meta name=""viewport"" content=""width=device-width"," initial-scale=1"">"
+"	<link rel=""profile"" href=""http://gmpg.org/xfn/11"">"
+"	<meta name='robots' content='noindex"," follow' />"
+""
+"<!-- Google Tag Manager for WordPress by gtm4wp.com -->"
+"<script data-cfasync=""false"" data-pagespeed-no-defer type=""text/javascript"">//<![CDATA["
+"	var gtm4wp_datalayer_name = ""dataLayer"";"
+"	var dataLayer = dataLayer || [];"
+//]]>
+</script>
+"<!-- End Google Tag Manager for WordPress by gtm4wp.com -->"
+"	<!-- This site is optimized with the Yoast SEO plugin v17.9 - https://yoast.com/wordpress/plugins/seo/ -->"
+"	<title>Page not found - Amplify ETFs</title>"
+"	<meta property=""og:locale"" content=""en_US"" />"
+"	<meta property=""og:title"" content=""Page not found - Amplify ETFs"" />"
+"	<meta property=""og:site_name"" content=""Amplify ETFs"" />"
+"	<script type=""application/ld+json"" class=""yoast-schema-graph"">{""@context"":""https://schema.org""","@graph:[{""@type"":""Organization""","@id:""https://amplifyetfs.com/#organization""","name:""Amplify ETFs""","url:""https://amplifyetfs.com/""","sameAs:[""https://www.instagram.com/amplifyetfs/""",https://www.linkedin.com/company/amplify-etfs,https://www.youtube.com/channel/UCzKe0bCXp7U0dit-bk0ysrw,https://twitter.com/amplifyetfs],"logo:{""@type"":""ImageObject""","@id:""https://amplifyetfs.com/#logo""","inLanguage:""en-US""","url:""https://amplifyetfs.com/wp-content/uploads/2020/03/logo_only.png""","contentUrl:""https://amplifyetfs.com/wp-content/uploads/2020/03/logo_only.png""",width:323,height:291,"caption:""Amplify ETFs""}","image:{""@id"":""https://amplifyetfs.com/#logo""}}","{""@type"":""WebSite""","@id:""https://amplifyetfs.com/#website""","url:""https://amplifyetfs.com/""","name:""Amplify ETFs""","description:""""","publisher:{""@id"":""https://amplifyetfs.com/#organization""}","potentialAction:[{""@type"":""SearchAction""","target:{""@type"":""EntryPoint""","urlTemplate:""https://amplifyetfs.com/?s={search_term_string}""}","query-input:""required name=search_term_string""}]","inLanguage:""en-US""}]}</script>"
+"	<!-- / Yoast SEO plugin. -->"
+""
+""
+"<link rel=""alternate"" type=""application/rss+xml"" title=""Amplify ETFs &raquo; Feed"" href=""https://amplifyetfs.com/feed/"" />"
+"<link rel=""alternate"" type=""application/rss+xml"" title=""Amplify ETFs &raquo; Comments Feed"" href=""https://amplifyetfs.com/comments/feed/"" />"
+"<link rel='stylesheet' id='wp-block-library-css'  href='https://amplifyetfs.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.3' type='text/css' media='all' />"
+"<link rel='stylesheet' id='trelsb_frontend_style-css'  href='https://amplifyetfs.com/wp-content/plugins/traction-external-links-speed-bump//css/traction-external-links-speed-bump.css?ver=5.8.3' type='text/css' media='all' />"
+"<link rel='stylesheet' id='hello-elementor-theme-style-css'  href='https://amplifyetfs.com/wp-content/themes/amplifyetfs/theme.min.css?ver=2.2.0' type='text/css' media='all' />"
+"<link rel='stylesheet' id='hello-elementor-child-style-css'  href='https://amplifyetfs.com/wp-content/themes/amplifyetfs-child/style.css?ver=1.0.0' type='text/css' media='all' />"
+"<link rel='stylesheet' id='elementor-icons-css'  href='https://amplifyetfs.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.14.0' type='text/css' media='all' />"
+"<link rel='stylesheet' id='elementor-frontend-css'  href='https://amplifyetfs.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.5.4' type='text/css' media='all' />"
+"<style id='elementor-frontend-inline-css' type='text/css'>"
+"@-webkit-keyframes ha_fadeIn{0%{opacity:0}to{opacity:1}}@keyframes ha_fadeIn{0%{opacity:0}to{opacity:1}}.ha_fadeIn{-webkit-animation-name:ha_fadeIn;animation-name:ha_fadeIn}@-webkit-keyframes ha_zoomIn{0%{opacity:0;-webkit-transform:scale3d(.3",.3,.3);transform:scale3d(.3,.3,".3)}50%{opacity:1}}@keyframes ha_zoomIn{0%{opacity:0;-webkit-transform:scale3d(.3",.3,.3);transform:scale3d(.3,.3,".3)}50%{opacity:1}}.ha_zoomIn{-webkit-animation-name:ha_zoomIn;animation-name:ha_zoomIn}@-webkit-keyframes ha_rollIn{0%{opacity:0;-webkit-transform:translate3d(-100%",0,"0) rotate3d(0",0,1,-120deg);transform:translate3d(-100%,0,"0) rotate3d(0",0,1,"-120deg)}to{opacity:1}}@keyframes ha_rollIn{0%{opacity:0;-webkit-transform:translate3d(-100%",0,"0) rotate3d(0",0,1,-120deg);transform:translate3d(-100%,0,"0) rotate3d(0",0,1,"-120deg)}to{opacity:1}}.ha_rollIn{-webkit-animation-name:ha_rollIn;animation-name:ha_rollIn}@-webkit-keyframes ha_bounce{0%",20%,53%,to{-webkit-animation-timing-function:cubic-bezier(.215,.61,.355,1);animation-timing-function:cubic-bezier(.215,.61,.355,1)}40%,43%{-webkit-transform:translate3d(0,-30px,"0) scaleY(1.1);transform:translate3d(0",-30px,"0) scaleY(1.1);-webkit-animation-timing-function:cubic-bezier(.755",.05,.855,.06);animation-timing-function:cubic-bezier(.755,.05,.855,.06)}70%{-webkit-transform:translate3d(0,-15px,"0) scaleY(1.05);transform:translate3d(0",-15px,"0) scaleY(1.05);-webkit-animation-timing-function:cubic-bezier(.755",.05,.855,.06);animation-timing-function:cubic-bezier(.755,.05,.855,.06)}80%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1);-webkit-transform:translate3d(0,0,"0) scaleY(.95);transform:translate3d(0",0,"0) scaleY(.95)}90%{-webkit-transform:translate3d(0",-4px,"0) scaleY(1.02);transform:translate3d(0",-4px,"0) scaleY(1.02)}}@keyframes ha_bounce{0%",20%,53%,to{-webkit-animation-timing-function:cubic-bezier(.215,.61,.355,1);animation-timing-function:cubic-bezier(.215,.61,.355,1)}40%,43%{-webkit-transform:translate3d(0,-30px,"0) scaleY(1.1);transform:translate3d(0",-30px,"0) scaleY(1.1);-webkit-animation-timing-function:cubic-bezier(.755",.05,.855,.06);animation-timing-function:cubic-bezier(.755,.05,.855,.06)}70%{-webkit-transform:translate3d(0,-15px,"0) scaleY(1.05);transform:translate3d(0",-15px,"0) scaleY(1.05);-webkit-animation-timing-function:cubic-bezier(.755",.05,.855,.06);animation-timing-function:cubic-bezier(.755,.05,.855,.06)}80%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1);-webkit-transform:translate3d(0,0,"0) scaleY(.95);transform:translate3d(0",0,"0) scaleY(.95)}90%{-webkit-transform:translate3d(0",-4px,"0) scaleY(1.02);transform:translate3d(0",-4px,"0) scaleY(1.02)}}.ha_bounce{-webkit-transform-origin:center bottom;-ms-transform-origin:center bottom;transform-origin:center bottom;-webkit-animation-name:ha_bounce;animation-name:ha_bounce}@-webkit-keyframes ha_bounceIn{0%",20%,40%,60%,80%,to{-webkit-animation-timing-function:cubic-bezier(.215,.61,.355,1);animation-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;-webkit-transform:scale3d(.3,.3,.3);transform:scale3d(.3,.3,.3)}20%{-webkit-transform:scale3d(1.1,1.1,1.1);transform:scale3d(1.1,1.1,1.1)}40%{-webkit-transform:scale3d(.9,.9,.9);transform:scale3d(.9,.9,.9)}60%{opacity:1;-webkit-transform:scale3d(1.03,1.03,1.03);transform:scale3d(1.03,1.03,1.03)}80%{-webkit-transform:scale3d(.97,.97,.97);transform:scale3d(.97,.97,".97)}to{opacity:1}}@keyframes ha_bounceIn{0%",20%,40%,60%,80%,to{-webkit-animation-timing-function:cubic-bezier(.215,.61,.355,1);animation-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;-webkit-transform:scale3d(.3,.3,.3);transform:scale3d(.3,.3,.3)}20%{-webkit-transform:scale3d(1.1,1.1,1.1);transform:scale3d(1.1,1.1,1.1)}40%{-webkit-transform:scale3d(.9,.9,.9);transform:scale3d(.9,.9,.9)}60%{opacity:1;-webkit-transform:scale3d(1.03,1.03,1.03);transform:scale3d(1.03,1.03,1.03)}80%{-webkit-transform:scale3d(.97,.97,.97);transform:scale3d(.97,.97,".97)}to{opacity:1}}.ha_bounceIn{-webkit-animation-name:ha_bounceIn;animation-name:ha_bounceIn;-webkit-animation-duration:calc(1s*.75);-webkit-animation-duration:calc(var(--animate-duration)*.75);animation-duration:calc(1s*.75);animation-duration:calc(var(--animate-duration)*.75)}@-webkit-keyframes ha_flipInX{0%{opacity:0;-webkit-transform:perspective(400px) rotate3d(1",0,0,"90deg);transform:perspective(400px) rotate3d(1",0,0,"90deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}40%{-webkit-transform:perspective(400px) rotate3d(1",0,0,"-20deg);transform:perspective(400px) rotate3d(1",0,0,"-20deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}60%{opacity:1;-webkit-transform:perspective(400px) rotate3d(1",0,0,"10deg);transform:perspective(400px) rotate3d(1",0,0,"10deg)}80%{-webkit-transform:perspective(400px) rotate3d(1",0,0,"-5deg);transform:perspective(400px) rotate3d(1",0,0,"-5deg)}}@keyframes ha_flipInX{0%{opacity:0;-webkit-transform:perspective(400px) rotate3d(1",0,0,"90deg);transform:perspective(400px) rotate3d(1",0,0,"90deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}40%{-webkit-transform:perspective(400px) rotate3d(1",0,0,"-20deg);transform:perspective(400px) rotate3d(1",0,0,"-20deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}60%{opacity:1;-webkit-transform:perspective(400px) rotate3d(1",0,0,"10deg);transform:perspective(400px) rotate3d(1",0,0,"10deg)}80%{-webkit-transform:perspective(400px) rotate3d(1",0,0,"-5deg);transform:perspective(400px) rotate3d(1",0,0,-5deg)}}.ha_flipInX,".ha_flipInY{-webkit-animation-name:ha_flipInX;animation-name:ha_flipInX;-webkit-backface-visibility:visible!important;backface-visibility:visible!important}@-webkit-keyframes ha_flipInY{0%{opacity:0;-webkit-transform:perspective(400px) rotate3d(0",1,0,"90deg);transform:perspective(400px) rotate3d(0",1,0,"90deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}40%{-webkit-transform:perspective(400px) rotate3d(0",1,0,"-20deg);transform:perspective(400px) rotate3d(0",1,0,"-20deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}60%{opacity:1;-webkit-transform:perspective(400px) rotate3d(0",1,0,"10deg);transform:perspective(400px) rotate3d(0",1,0,"10deg)}80%{-webkit-transform:perspective(400px) rotate3d(0",1,0,"-5deg);transform:perspective(400px) rotate3d(0",1,0,"-5deg)}}@keyframes ha_flipInY{0%{opacity:0;-webkit-transform:perspective(400px) rotate3d(0",1,0,"90deg);transform:perspective(400px) rotate3d(0",1,0,"90deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}40%{-webkit-transform:perspective(400px) rotate3d(0",1,0,"-20deg);transform:perspective(400px) rotate3d(0",1,0,"-20deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}60%{opacity:1;-webkit-transform:perspective(400px) rotate3d(0",1,0,"10deg);transform:perspective(400px) rotate3d(0",1,0,"10deg)}80%{-webkit-transform:perspective(400px) rotate3d(0",1,0,"-5deg);transform:perspective(400px) rotate3d(0",1,0,"-5deg)}}.ha_flipInY{-webkit-animation-name:ha_flipInY;animation-name:ha_flipInY}@-webkit-keyframes ha_swing{20%{-webkit-transform:rotate3d(0",0,1,15deg);transform:rotate3d(0,0,1,15deg)}40%{-webkit-transform:rotate3d(0,0,1,-10deg);transform:rotate3d(0,0,1,-10deg)}60%{-webkit-transform:rotate3d(0,0,1,5deg);transform:rotate3d(0,0,1,5deg)}80%{-webkit-transform:rotate3d(0,0,1,-5deg);transform:rotate3d(0,0,1,"-5deg)}}@keyframes ha_swing{20%{-webkit-transform:rotate3d(0",0,1,15deg);transform:rotate3d(0,0,1,15deg)}40%{-webkit-transform:rotate3d(0,0,1,-10deg);transform:rotate3d(0,0,1,-10deg)}60%{-webkit-transform:rotate3d(0,0,1,5deg);transform:rotate3d(0,0,1,5deg)}80%{-webkit-transform:rotate3d(0,0,1,-5deg);transform:rotate3d(0,0,1,"-5deg)}}.ha_swing{-webkit-transform-origin:top center;-ms-transform-origin:top center;transform-origin:top center;-webkit-animation-name:ha_swing;animation-name:ha_swing}@-webkit-keyframes ha_slideInDown{0%{visibility:visible;-webkit-transform:translate3d(0",-100%,0);transform:translate3d(0,-100%,"0)}}@keyframes ha_slideInDown{0%{visibility:visible;-webkit-transform:translate3d(0",-100%,0);transform:translate3d(0,-100%,"0)}}.ha_slideInDown{-webkit-animation-name:ha_slideInDown;animation-name:ha_slideInDown}@-webkit-keyframes ha_slideInUp{0%{visibility:visible;-webkit-transform:translate3d(0",100%,0);transform:translate3d(0,100%,"0)}}@keyframes ha_slideInUp{0%{visibility:visible;-webkit-transform:translate3d(0",100%,0);transform:translate3d(0,100%,"0)}}.ha_slideInUp{-webkit-animation-name:ha_slideInUp;animation-name:ha_slideInUp}@-webkit-keyframes ha_slideInLeft{0%{visibility:visible;-webkit-transform:translate3d(-100%",0,0);transform:translate3d(-100%,0,"0)}}@keyframes ha_slideInLeft{0%{visibility:visible;-webkit-transform:translate3d(-100%",0,0);transform:translate3d(-100%,0,"0)}}.ha_slideInLeft{-webkit-animation-name:ha_slideInLeft;animation-name:ha_slideInLeft}@-webkit-keyframes ha_slideInRight{0%{visibility:visible;-webkit-transform:translate3d(100%",0,0);transform:translate3d(100%,0,"0)}}@keyframes ha_slideInRight{0%{visibility:visible;-webkit-transform:translate3d(100%",0,0);transform:translate3d(100%,0,0)}}.ha_slideInRight{-webkit-animation-name:ha_slideInRight;animation-name:ha_slideInRight}.ha-css-transform-yes{-webkit-transition-duration:var(--ha-tfx-transition-duration,.2s);transition-duration:var(--ha-tfx-transition-duration,.2s);-webkit-transition-property:-webkit-transform;transition-property:transform;transition-property:transform,-webkit-transform;-webkit-transform:translate(var(--ha-tfx-translate-x,0),var(--ha-tfx-translate-y,"0)) scale(var(--ha-tfx-scale-x",1),var(--ha-tfx-scale-y,"1)) skew(var(--ha-tfx-skew-x",0),var(--ha-tfx-skew-y,"0)) rotateX(var(--ha-tfx-rotate-x","0)) rotateY(var(--ha-tfx-rotate-y","0)) rotateZ(var(--ha-tfx-rotate-z",0));transform:translate(var(--ha-tfx-translate-x,0),var(--ha-tfx-translate-y,"0)) scale(var(--ha-tfx-scale-x",1),var(--ha-tfx-scale-y,"1)) skew(var(--ha-tfx-skew-x",0),var(--ha-tfx-skew-y,"0)) rotateX(var(--ha-tfx-rotate-x","0)) rotateY(var(--ha-tfx-rotate-y","0)) rotateZ(var(--ha-tfx-rotate-z",0))}.ha-css-transform-yes:hover{-webkit-transform:translate(var(--ha-tfx-translate-x-hover,var(--ha-tfx-translate-x,0)),var(--ha-tfx-translate-y-hover,var(--ha-tfx-translate-y,"0))) scale(var(--ha-tfx-scale-x-hover",var(--ha-tfx-scale-x,1)),var(--ha-tfx-scale-y-hover,var(--ha-tfx-scale-y,"1))) skew(var(--ha-tfx-skew-x-hover",var(--ha-tfx-skew-x,0)),var(--ha-tfx-skew-y-hover,var(--ha-tfx-skew-y,"0))) rotateX(var(--ha-tfx-rotate-x-hover",var(--ha-tfx-rotate-x,"0))) rotateY(var(--ha-tfx-rotate-y-hover",var(--ha-tfx-rotate-y,"0))) rotateZ(var(--ha-tfx-rotate-z-hover",var(--ha-tfx-rotate-z,0)));transform:translate(var(--ha-tfx-translate-x-hover,var(--ha-tfx-translate-x,0)),var(--ha-tfx-translate-y-hover,var(--ha-tfx-translate-y,"0))) scale(var(--ha-tfx-scale-x-hover",var(--ha-tfx-scale-x,1)),var(--ha-tfx-scale-y-hover,var(--ha-tfx-scale-y,"1))) skew(var(--ha-tfx-skew-x-hover",var(--ha-tfx-skew-x,0)),var(--ha-tfx-skew-y-hover,var(--ha-tfx-skew-y,"0))) rotateX(var(--ha-tfx-rotate-x-hover",var(--ha-tfx-rotate-x,"0))) rotateY(var(--ha-tfx-rotate-y-hover",var(--ha-tfx-rotate-y,"0))) rotateZ(var(--ha-tfx-rotate-z-hover",var(--ha-tfx-rotate-z,"0)))}.happy-addon>.elementor-widget-container{word-wrap:break-word;overflow-wrap:break-word;box-sizing:border-box}.happy-addon>.elementor-widget-container *{box-sizing:border-box}.happy-addon p:empty{display:none}.happy-addon .elementor-inline-editing{min-height:auto!important}.happy-addon-pro img{max-width:100%;height:auto;-o-object-fit:cover;object-fit:cover}.ha-screen-reader-text{position:absolute;overflow:hidden;clip:rect(1px",1px,1px,"1px);margin:-1px;padding:0;width:1px;height:1px;border:0;word-wrap:normal!important;-webkit-clip-path:inset(50%);clip-path:inset(50%)}.ha-has-bg-overlay>.elementor-widget-container{position:relative;z-index:1}.ha-has-bg-overlay>.elementor-widget-container:before{position:absolute;top:0;left:0;z-index:-1;width:100%;height:100%;content:""""}.ha-popup--is-enabled .ha-js-popup",".ha-popup--is-enabled .ha-js-popup img{cursor:-webkit-zoom-in!important;cursor:zoom-in!important}.mfp-wrap .mfp-arrow",".mfp-wrap .mfp-close{background-color:transparent}.mfp-wrap .mfp-arrow:focus",".mfp-wrap .mfp-close:focus{outline-width:thin}.ha-advanced-tooltip-enable{position:relative;cursor:pointer;--ha-tooltip-arrow-color:#000;--ha-tooltip-arrow-distance:0}.ha-advanced-tooltip-enable .ha-advanced-tooltip-content{position:absolute;z-index:999;display:none;padding:5px 0;width:120px;height:auto;border-radius:6px;background-color:#000;color:#fff;text-align:center;opacity:0}.ha-advanced-tooltip-enable .ha-advanced-tooltip-content::after{position:absolute;border-width:5px;border-style:solid;content:""""}.ha-advanced-tooltip-enable .ha-advanced-tooltip-content.no-arrow::after{visibility:hidden}.ha-advanced-tooltip-enable .ha-advanced-tooltip-content.show{display:inline-block;opacity:1}.ha-advanced-tooltip-enable.ha-advanced-tooltip-top .ha-advanced-tooltip-content","body[data-elementor-device-mode=tablet] .ha-advanced-tooltip-enable.ha-advanced-tooltip-tablet-top .ha-advanced-tooltip-content{top:unset;right:0;bottom:calc(101% + var(--ha-tooltip-arrow-distance));left:0;margin:0 auto}.ha-advanced-tooltip-enable.ha-advanced-tooltip-top .ha-advanced-tooltip-content::after","body[data-elementor-device-mode=tablet] .ha-advanced-tooltip-enable.ha-advanced-tooltip-tablet-top .ha-advanced-tooltip-content::after{top:100%;right:unset;bottom:unset;left:50%;border-color:var(--ha-tooltip-arrow-color) transparent transparent;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%)}.ha-advanced-tooltip-enable.ha-advanced-tooltip-bottom .ha-advanced-tooltip-content","body[data-elementor-device-mode=tablet] .ha-advanced-tooltip-enable.ha-advanced-tooltip-tablet-bottom .ha-advanced-tooltip-content{top:calc(101% + var(--ha-tooltip-arrow-distance));right:0;bottom:unset;left:0;margin:0 auto}.ha-advanced-tooltip-enable.ha-advanced-tooltip-bottom .ha-advanced-tooltip-content::after","body[data-elementor-device-mode=tablet] .ha-advanced-tooltip-enable.ha-advanced-tooltip-tablet-bottom .ha-advanced-tooltip-content::after{top:unset;right:unset;bottom:100%;left:50%;border-color:transparent transparent var(--ha-tooltip-arrow-color);-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%)}.ha-advanced-tooltip-enable.ha-advanced-tooltip-left .ha-advanced-tooltip-content","body[data-elementor-device-mode=tablet] .ha-advanced-tooltip-enable.ha-advanced-tooltip-tablet-left .ha-advanced-tooltip-content{top:50%;right:calc(101% + var(--ha-tooltip-arrow-distance));bottom:unset;left:unset;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.ha-advanced-tooltip-enable.ha-advanced-tooltip-left .ha-advanced-tooltip-content::after","body[data-elementor-device-mode=tablet] .ha-advanced-tooltip-enable.ha-advanced-tooltip-tablet-left .ha-advanced-tooltip-content::after{top:50%;right:unset;bottom:unset;left:100%;border-color:transparent transparent transparent var(--ha-tooltip-arrow-color);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.ha-advanced-tooltip-enable.ha-advanced-tooltip-right .ha-advanced-tooltip-content","body[data-elementor-device-mode=tablet] .ha-advanced-tooltip-enable.ha-advanced-tooltip-tablet-right .ha-advanced-tooltip-content{top:50%;right:unset;bottom:unset;left:calc(101% + var(--ha-tooltip-arrow-distance));-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.ha-advanced-tooltip-enable.ha-advanced-tooltip-right .ha-advanced-tooltip-content::after","body[data-elementor-device-mode=tablet] .ha-advanced-tooltip-enable.ha-advanced-tooltip-tablet-right .ha-advanced-tooltip-content::after{top:50%;right:100%;bottom:unset;left:unset;border-color:transparent var(--ha-tooltip-arrow-color) transparent transparent;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}body[data-elementor-device-mode=mobile] .ha-advanced-tooltip-enable.ha-advanced-tooltip-mobile-top .ha-advanced-tooltip-content{top:unset;right:0;bottom:calc(101% + var(--ha-tooltip-arrow-distance));left:0;margin:0 auto}body[data-elementor-device-mode=mobile] .ha-advanced-tooltip-enable.ha-advanced-tooltip-mobile-top .ha-advanced-tooltip-content::after{top:100%;right:unset;bottom:unset;left:50%;border-color:var(--ha-tooltip-arrow-color) transparent transparent;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%)}body[data-elementor-device-mode=mobile] .ha-advanced-tooltip-enable.ha-advanced-tooltip-mobile-bottom .ha-advanced-tooltip-content{top:calc(101% + var(--ha-tooltip-arrow-distance));right:0;bottom:unset;left:0;margin:0 auto}body[data-elementor-device-mode=mobile] .ha-advanced-tooltip-enable.ha-advanced-tooltip-mobile-bottom .ha-advanced-tooltip-content::after{top:unset;right:unset;bottom:100%;left:50%;border-color:transparent transparent var(--ha-tooltip-arrow-color);-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%)}body[data-elementor-device-mode=mobile] .ha-advanced-tooltip-enable.ha-advanced-tooltip-mobile-left .ha-advanced-tooltip-content{top:50%;right:calc(101% + var(--ha-tooltip-arrow-distance));bottom:unset;left:unset;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}body[data-elementor-device-mode=mobile] .ha-advanced-tooltip-enable.ha-advanced-tooltip-mobile-left .ha-advanced-tooltip-content::after{top:50%;right:unset;bottom:unset;left:100%;border-color:transparent transparent transparent var(--ha-tooltip-arrow-color);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}body[data-elementor-device-mode=mobile] .ha-advanced-tooltip-enable.ha-advanced-tooltip-mobile-right .ha-advanced-tooltip-content{top:50%;right:unset;bottom:unset;left:calc(101% + var(--ha-tooltip-arrow-distance));-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}body[data-elementor-device-mode=mobile] .ha-advanced-tooltip-enable.ha-advanced-tooltip-mobile-right .ha-advanced-tooltip-content::after{top:50%;right:100%;bottom:unset;left:unset;border-color:transparent var(--ha-tooltip-arrow-color) transparent transparent;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}"
+</style>
+"<link rel='stylesheet' id='elementor-post-580-css'  href='https://amplifyetfs.com/wp-content/uploads/elementor/css/post-580.css?ver=1643078892' type='text/css' media='all' />"
+"<link rel='stylesheet' id='elementor-pro-css'  href='https://amplifyetfs.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.5.2' type='text/css' media='all' />"
+"<link rel='stylesheet' id='jet-tabs-frontend-css'  href='https://amplifyetfs.com/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.1.13' type='text/css' media='all' />"
+"<link rel='stylesheet' id='wpdt-elementor-widget-font-css'  href='https://amplifyetfs.com/wp-content/plugins/wpdatatables/assets/css/elementor/style.css?ver=3.4.2' type='text/css' media='all' />"
+"<link rel='stylesheet' id='elementor-post-2480-css'  href='https://amplifyetfs.com/wp-content/uploads/elementor/css/post-2480.css?ver=1643079655' type='text/css' media='all' />"
+"<link rel='stylesheet' id='happy-icons-css'  href='https://amplifyetfs.com/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.4.0' type='text/css' media='all' />"
+"<link rel='stylesheet' id='font-awesome-css'  href='https://amplifyetfs.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />"
+"<link rel='stylesheet' id='elementor-post-119-css'  href='https://amplifyetfs.com/wp-content/uploads/elementor/css/post-119.css?ver=1643078893' type='text/css' media='all' />"
+"<link rel='stylesheet' id='ecs-styles-css'  href='https://amplifyetfs.com/wp-content/plugins/ele-custom-skin/assets/css/ecs-style.css?ver=3.1.4' type='text/css' media='all' />"
+"<link rel='stylesheet' id='elementor-post-2278-css'  href='https://amplifyetfs.com/wp-content/uploads/elementor/css/post-2278.css?ver=1636640719' type='text/css' media='all' />"
+"<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Raleway%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.8.3' type='text/css' media='all' />"
+"<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://amplifyetfs.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' type='text/css' media='all' />"
+"<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://amplifyetfs.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' type='text/css' media='all' />"
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>"
+"<script type='text/javascript' id='trelsb_frontend_script-js-extra'>"
+"/* <![CDATA[ */"
+"var trelsb_php_vars = {""domainExceptions"":""""","linkExceptions:""""","speedbumpText:""<p>You are now leaving the Amplify ETFs web site.<\/p>\n""","continueText:""Continue""","cancelText:""Cancel""};"
+"/* ]]> */"
+</script>
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/traction-external-links-speed-bump//js/traction-external-links-speed-bump.js?ver=5.8.3' id='trelsb_frontend_script-js'></script>"
+"<script type='text/javascript' id='ecs_ajax_load-js-extra'>"
+"/* <![CDATA[ */"
+"var ecs_ajax_params = {""ajaxurl"":""https:\/\/amplifyetfs.com\/wp-admin\/admin-ajax.php""","posts:""{\""error\"":\""404\""","\""m\"":\""\""","\""p\"":0","\""post_parent\"":\""\""","\""subpost\"":\""\""","\""subpost_id\"":\""\""","\""attachment\"":\""\""","\""attachment_id\"":0","\""name\"":\""\""","\""pagename\"":\""\""","\""page_id\"":0","\""second\"":\""\""","\""minute\"":\""\""","\""hour\"":\""\""","\""day\"":0","\""monthnum\"":0","\""year\"":0","\""w\"":0","\""category_name\"":\""\""","\""tag\"":\""\""","\""cat\"":\""\""","\""tag_id\"":\""\""","\""author\"":\""\""","\""author_name\"":\""\""","\""feed\"":\""\""","\""tb\"":\""\""","\""paged\"":0","\""meta_key\"":\""\""","\""meta_value\"":\""\""","\""preview\"":\""\""","\""s\"":\""\""","\""sentence\"":\""\""","\""title\"":\""\""","\""fields\"":\""\""","\""menu_order\"":\""\""","\""embed\"":\""\""","\""category__in\"":[]","\""category__not_in\"":[]","\""category__and\"":[]","\""post__in\"":[]","\""post__not_in\"":[]","\""post_name__in\"":[]","\""tag__in\"":[]","\""tag__not_in\"":[]","\""tag__and\"":[]","\""tag_slug__in\"":[]","\""tag_slug__and\"":[]","\""post_parent__in\"":[]","\""post_parent__not_in\"":[]","\""author__in\"":[]","\""author__not_in\"":[]","\""ignore_sticky_posts\"":false","\""suppress_filters\"":false","\""cache_results\"":true","\""update_post_term_cache\"":true","\""lazy_load_term_meta\"":true","\""update_post_meta_cache\"":true","\""post_type\"":\""\""","\""posts_per_page\"":10","\""nopaging\"":false","\""comments_per_page\"":\""50\""","\""no_found_rows\"":false","\""order\"":\""DESC\""}""};"
+"/* ]]> */"
+</script>
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination.js?ver=3.1.4' id='ecs_ajax_load-js'></script>"
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/ele-custom-skin/assets/js/ecs.js?ver=3.1.4' id='ecs-script-js'></script>"
+"<link rel=""https://api.w.org/"" href=""https://amplifyetfs.com/wp-json/"" /><link rel=""EditURI"" type=""application/rsd+xml"" title=""RSD"" href=""https://amplifyetfs.com/xmlrpc.php?rsd"" />"
+"<link rel=""wlwmanifest"" type=""application/wlwmanifest+xml"" href=""https://amplifyetfs.com/wp-includes/wlwmanifest.xml"" /> "
+"<meta name=""generator"" content=""WordPress 5.8.3"" />"
+"<!-- HFCM by 99 Robots - Snippet # 4: pardot -->"
+"<script type=""text/javascript"">"
+"    piAId = '141091';"
+"    piCId = '1139';"
+"    (function() {"
+"        function async_load(){"
+"                        var s = document.createElement('script'); s.type = 'text/javascript';"
+"                        s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';"
+"                        var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s"," c);"
+"        }"
+"        if(window.attachEvent) { window.attachEvent('onload'"," async_load); }"
+"        else { window.addEventListener('load'"," async_load"," false); }"
+"    })();"
+""
+</script>
+"<!-- /end HFCM by 99 Robots -->"
+""
+"<!-- Google Tag Manager for WordPress by gtm4wp.com -->"
+"<script data-cfasync=""false"" data-pagespeed-no-defer type=""text/javascript"">//<![CDATA["
+"	var dataLayer_content = [];"
+"	dataLayer.push( dataLayer_content );//]]>"
+</script>
+"<script data-cfasync=""false"">//<![CDATA["
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+"new Date().getTime()","event:'gtm.js'});var f=d.getElementsByTagName(s)[0]",
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TC73H3R');//]]>
+</script>
+"<!-- End Google Tag Manager -->"
+"<!-- End Google Tag Manager for WordPress by gtm4wp.com --><script>"
+"	jQuery(document).ready(function ($) {"
+"		$('#connectformbutton').click(function() {"
+"		  $('.connectform').fadeToggle();"
+"		  $('#connectformbutton').toggleClass('connectformbuttongraytext');"
+		});
+		$('.splash," .etfsplash a').click(function() {"
+"		  return confirm(""You are now leaving the Amplify ETFs web site."");"
+		});		
+	});
+</script>
+"<link rel=""icon"" href=""https://amplifyetfs.com/wp-content/uploads/2020/10/favicon.ico"" sizes=""32x32"" />"
 "<link rel=""icon"" href=""https://amplifyetfs.com/wp-content/uploads/2020/10/favicon.ico"" sizes=""192x192"" />"
 "<link rel=""apple-touch-icon"" href=""https://amplifyetfs.com/wp-content/uploads/2020/10/favicon.ico"" />"
 "<meta name=""msapplication-TileImage"" content=""https://amplifyetfs.com/wp-content/uploads/2020/10/favicon.ico"" />"
-"	<meta name=""viewport"" content=""width=device-width"," maximum-scale=1"," initial-scale=1"," minimum-scale=1"">"
-"	<meta name=""description"" content=""""/>"
-"	<meta http-equiv=""X-UA-Compatible"" content="""" />"
-"	<meta property=""og:site_name"" content=""Amplify ETFs - ""/>"
-"	<meta property=""og:title"" content=""Site is undergoing maintenance""/>"
-"	<meta property=""og:type"" content=""Maintenance""/>"
-"	<meta property=""og:url"" content=""https://amplifyetfs.com""/>"
-"	<meta property=""og:description"" content=""Site will be available soon. Thank you for your patience!""/>"
-"		<link rel=""profile"" href=""http://gmpg.org/xfn/11"" />"
-"	<link rel=""pingback"" href=""https://amplifyetfs.com/xmlrpc.php"" />"
-"	<link rel='stylesheet' id='mtnc-style-css'  href='https://amplifyetfs.com/wp-content/plugins/maintenance/load/css/style.css?ver=1643077308' type='text/css' media='all' />"
-"<link rel='stylesheet' id='mtnc-fonts-css'  href='https://amplifyetfs.com/wp-content/plugins/maintenance/load/css/fonts.css?ver=1643077308' type='text/css' media='all' />"
-"<style type=""text/css"">body {background-color: #727272}.preloader {background-color: #727272}.bg-img img"," .bg-img source{-webkit-filter: blur(1px);-moz-filter: blur(1px);-o-filter: blur(1px);-ms-filter: blur(1px);filter:blur(1px);filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius=1"," enabled='true');}body {font-family: Open Sans; }.site-title"," .preloader i"," .login-form"," .login-form a.lost-pass"," .btn-open-login-form"," .site-content"," .user-content-wrapper"," .user-content"," footer"," .maintenance a{color: #f4f4f4;} a.close-user-content"," #mailchimp-box form input[type=""submit""]"," .login-form input#submit.button  {border-color:#f4f4f4} input[type=""submit""]:hover{background-color:#f4f4f4} input:-webkit-autofill"," input:-webkit-autofill:focus{-webkit-text-fill-color:#f4f4f4} body &gt; .login-form-container{background-color:#0a0a0a}.btn-open-login-form{background-color:#0a0a0a}input:-webkit-autofill"," input:-webkit-autofill:focus{-webkit-box-shadow:0 0 0 50px #0a0a0a inset}input[type='submit']:hover{color:#0a0a0a} #custom-subscribe #submit-subscribe:before{background-color:#0a0a0a} </style>		<!--[if IE]>"
-"	<style type=""text/css"">"
+"<script data-dont-merge="""">(function(){function iv(a){if(typeof a.getBoundingClientRect!=='function'){return false}var b=a.getBoundingClientRect();return(b.bottom+50>=0&&b.right+50>=0&&b.top-50<=(window.innerHeight||document.documentElement.clientHeight)&&b.left-50<=(window.innerWidth||document.documentElement.clientWidth))}function ll(){var a=document.querySelectorAll('[data-swift-iframe-lazyload]');for(var i in a){if(iv(a[i])){a[i].onload=function(){window.dispatchEvent(new Event('resize'));};a[i].setAttribute('src'","(typeof a[i].dataset.src != 'undefined' ? a[i].dataset.src : a[i].src));a[i].setAttribute('style'",a[i].dataset.style);a[i].removeAttribute('data-swift-iframe-lazyload')}}requestAnimationFrame(ll)}requestAnimationFrame(ll)})();</script></head>
+"<body class=""error404 wp-custom-logo elementor-default elementor-kit-580"">"
 ""
-	</style>
-"	<script type=""text/javascript"" src=""https://amplifyetfs.com/wp-content/plugins/maintenance/load/js/jquery.backstretch.min.js""></script>"
-	<![endif]-->
-"	<link rel=""stylesheet"" href=""https://fonts.googleapis.com/css?family=Open%20Sans:300",300italic,regular,italic,600,600italic,700,700italic,800,"800italic:300""></head>"
 ""
-"<body class=""maintenance "">"
-""
-"<div class=""main-container"">"
-"	<div class=""preloader""><i class=""fi-widget"" aria-hidden=""true""></i></div>	<div id=""wrapper"">"
-"		<div class=""center logotype"">"
-			<header>
-"				<div class=""logo-box istext"" rel=""home""><h1 class=""site-title"">Amplify ETFs</h1></div>			</header>"
+"<!-- Google Tag Manager (noscript) -->"
+"<noscript><iframe src=""https://www.googletagmanager.com/ns.html?id=GTM-TC73H3R"""
+"height=""0"" width=""0"" style=""display:none;visibility:hidden"" aria-hidden=""true""></iframe></noscript>"
+"<!-- End Google Tag Manager (noscript) -->		<div data-elementor-type=""header"" data-elementor-id=""2480"" class=""elementor elementor-2480 elementor-location-header"" data-elementor-settings=""[]"">"
+"		<div class=""elementor-section-wrap"">"
+"					<header class=""elementor-section elementor-top-section elementor-element elementor-element-60d106a elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch sticky-header elementor-section-height-default"" data-id=""60d106a"" data-element_type=""section"" data-settings=""{&quot;sticky&quot;:&quot;top&quot;",&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;],&quot;sticky_effects_offset&quot;:110,&quot;_ha_eqh_enable&quot;:false,"&quot;sticky_offset&quot;:0}"">"
+"						<div class=""elementor-container elementor-column-gap-default"">"
+"					<div class=""elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-225f59b"" data-id=""225f59b"" data-element_type=""column"">"
+"			<div class=""elementor-widget-wrap elementor-element-populated"">"
+"								<div class=""elementor-element elementor-element-083ed09 logo elementor-widget elementor-widget-image"" data-id=""083ed09"" data-element_type=""widget"" data-widget_type=""image.default"">"
+"				<div class=""elementor-widget-container"">"
+"			<style>/*! elementor - v3.5.4 - 23-01-2022 */"
+".elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$="".svg""]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href=""https://amplifyetfs.com"">"
+"							<img src=""https://amplifyetfs.com/wp-content/uploads/elementor/thumbs/Amp-_whitelogo_outlines_blue-1-73f4atutur2pfkol55pc5i903dk45xa7jqg1e71w7zc.png"" title=""Amp-_whitelogo_outlines_blue-1"" alt=""Amp-_whitelogo_outlines_blue-1"" />								</a>"
+															</div>
+				</div>
+					</div>
 		</div>
-"		<div id=""content"" class=""site-content"">"
-"			<div class=""center"">"
-"                <h2 class=""heading font-center"" style=""font-weight:300;font-style:normal"">Maintenance mode is on</h2><div class=""description"" style=""font-weight:300;font-style:normal""><p>Site will be available soon. Thank you for your patience!</p>"
-</div>			</div>
+"				<div class=""elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b40f653"" data-id=""b40f653"" data-element_type=""column"">"
+"			<div class=""elementor-widget-wrap elementor-element-populated"">"
+"								<div class=""elementor-element elementor-element-5d7af7c elementor-nav-menu__align-right elementor-nav-menu--dropdown-mobile elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu"" data-id=""5d7af7c"" data-element_type=""widget"" data-settings=""{&quot;full_width&quot;:&quot;stretch&quot;","&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-chevron-down\&quot;&gt;&lt;\/i&gt;&quot;",&quot;library&quot;:&quot;fa-solid&quot;},&quot;layout&quot;:&quot;horizontal&quot;,"&quot;toggle&quot;:&quot;burger&quot;}"" data-widget_type=""nav-menu.default"">"
+"				<div class=""elementor-widget-container"">"
+"			<link rel=""stylesheet"" href=""https://amplifyetfs.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css"">			<nav migration_allowed=""1"" migrated=""0"" role=""navigation"" class=""elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-drop-out"">"
+"				<ul id=""menu-1-5d7af7c"" class=""elementor-nav-menu""><li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7217""><a href=""#_"" class=""elementor-item elementor-item-anchor"">Products</a>"
+"<ul class=""sub-menu elementor-nav-menu--dropdown"">"
+"	<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-2162""><a href=""https://amplifyetfs.com/our-etfs/"" class=""elementor-sub-item""><em>View all ETFs</em></a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-1616""><a href=""/batt"" class=""elementor-sub-item"">BATT – Amplify Lithium &#038; Battery Technology ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-6461""><a href=""/bids"" class=""elementor-sub-item"">BIDS – Amplify Digital &#038; Online Trading ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2152""><a href=""/blok"" class=""elementor-sub-item"">BLOK – Amplify Transformational Data Sharing ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2153""><a href=""/cnbs"" class=""elementor-sub-item"">CNBS – Amplify Seymour Cannabis ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2154""><a href=""/divo"" class=""elementor-sub-item"">DIVO – Amplify CWP Enhanced Dividend Income ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-4195""><a href=""/dtox"" class=""elementor-sub-item"">DTOX – Amplify Cleaner Living ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2155""><a href=""/ibuy"" class=""elementor-sub-item"">IBUY – Amplify Online Retail ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2156""><a href=""/iswn"" class=""elementor-sub-item"">ISWN – Amplify BlackSwan ISWN ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2157""><a href=""/jgld"" class=""elementor-sub-item"">JGLD – Amplify Pure Junior Gold Miners ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-5170""><a href=""/mvps"" class=""elementor-sub-item"">MVPS – Amplify Thematic All-Stars ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-7020""><a href=""/qswn"" class=""elementor-sub-item"">QSWN – Amplify BlackSwan Tech &#038; Treasury ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2159""><a href=""/swan"" class=""elementor-sub-item"">SWAN – BlackSwan Growth &#038; Treasury Core ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2160""><a href=""/xbuy"" class=""elementor-sub-item"">XBUY – Amplify International Online Retail ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2161""><a href=""/yyy"" class=""elementor-sub-item"">YYY – Amplify High Income ETF</a></li>"
+</ul>
+</li>
+"<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-2447""><a href=""https://amplifyetfs.com/insights/"" class=""elementor-item"">Insights</a></li>"
+"<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-2448""><a href=""https://amplifyetfs.com/news/"" class=""elementor-item"">News</a></li>"
+"<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-1615""><a href=""https://amplifyetfs.com/about/"" class=""elementor-item"">About Us</a></li>"
+"<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-6751""><a href=""https://amplifyetfs.com/invest/"" class=""elementor-item"">Invest</a></li>"
+"<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-1754""><a href=""https://amplifyetfs.com/connect/"" class=""elementor-item"">Connect</a></li>"
+</ul>			</nav>
+"					<div class=""elementor-menu-toggle"" role=""button"" tabindex=""0"" aria-label=""Menu Toggle"" aria-expanded=""false"">"
+"			<i aria-hidden=""true"" role=""presentation"" class=""elementor-menu-toggle__icon--open eicon-menu-bar""></i><i aria-hidden=""true"" role=""presentation"" class=""elementor-menu-toggle__icon--close eicon-close""></i>			<span class=""elementor-screen-only"">Menu</span>"
 		</div>
-"	</div> <!-- end wrapper -->"
-	<footer>
-"		<div class=""center"">"
-"			<div style=""font-weight:300;font-style:normal"">© AmplifyETFs.com 2022</div>		</div>"
-	</footer>
-"					<picture class=""bg-img"">"
-"						<img src=""https://amplifyetfs.com/wp-content/uploads/2020/10/amplify-bg-about.jpg"">"
-		</picture>
+"			<nav class=""elementor-nav-menu--dropdown elementor-nav-menu__container"" role=""navigation"" aria-hidden=""true"">"
+"				<ul id=""menu-2-5d7af7c"" class=""elementor-nav-menu""><li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7217""><a href=""#_"" class=""elementor-item elementor-item-anchor"" tabindex=""-1"">Products</a>"
+"<ul class=""sub-menu elementor-nav-menu--dropdown"">"
+"	<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-2162""><a href=""https://amplifyetfs.com/our-etfs/"" class=""elementor-sub-item"" tabindex=""-1""><em>View all ETFs</em></a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-1616""><a href=""/batt"" class=""elementor-sub-item"" tabindex=""-1"">BATT – Amplify Lithium &#038; Battery Technology ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-6461""><a href=""/bids"" class=""elementor-sub-item"" tabindex=""-1"">BIDS – Amplify Digital &#038; Online Trading ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2152""><a href=""/blok"" class=""elementor-sub-item"" tabindex=""-1"">BLOK – Amplify Transformational Data Sharing ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2153""><a href=""/cnbs"" class=""elementor-sub-item"" tabindex=""-1"">CNBS – Amplify Seymour Cannabis ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2154""><a href=""/divo"" class=""elementor-sub-item"" tabindex=""-1"">DIVO – Amplify CWP Enhanced Dividend Income ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-4195""><a href=""/dtox"" class=""elementor-sub-item"" tabindex=""-1"">DTOX – Amplify Cleaner Living ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2155""><a href=""/ibuy"" class=""elementor-sub-item"" tabindex=""-1"">IBUY – Amplify Online Retail ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2156""><a href=""/iswn"" class=""elementor-sub-item"" tabindex=""-1"">ISWN – Amplify BlackSwan ISWN ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2157""><a href=""/jgld"" class=""elementor-sub-item"" tabindex=""-1"">JGLD – Amplify Pure Junior Gold Miners ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-5170""><a href=""/mvps"" class=""elementor-sub-item"" tabindex=""-1"">MVPS – Amplify Thematic All-Stars ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-7020""><a href=""/qswn"" class=""elementor-sub-item"" tabindex=""-1"">QSWN – Amplify BlackSwan Tech &#038; Treasury ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2159""><a href=""/swan"" class=""elementor-sub-item"" tabindex=""-1"">SWAN – BlackSwan Growth &#038; Treasury Core ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2160""><a href=""/xbuy"" class=""elementor-sub-item"" tabindex=""-1"">XBUY – Amplify International Online Retail ETF</a></li>"
+"	<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-2161""><a href=""/yyy"" class=""elementor-sub-item"" tabindex=""-1"">YYY – Amplify High Income ETF</a></li>"
+</ul>
+</li>
+"<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-2447""><a href=""https://amplifyetfs.com/insights/"" class=""elementor-item"" tabindex=""-1"">Insights</a></li>"
+"<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-2448""><a href=""https://amplifyetfs.com/news/"" class=""elementor-item"" tabindex=""-1"">News</a></li>"
+"<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-1615""><a href=""https://amplifyetfs.com/about/"" class=""elementor-item"" tabindex=""-1"">About Us</a></li>"
+"<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-6751""><a href=""https://amplifyetfs.com/invest/"" class=""elementor-item"" tabindex=""-1"">Invest</a></li>"
+"<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-1754""><a href=""https://amplifyetfs.com/connect/"" class=""elementor-item"" tabindex=""-1"">Connect</a></li>"
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</header>
+				</div>
+		</div>
+"		<main class=""site-main"" role=""main"">"
+"			<header class=""page-header"">"
+"			<h1 class=""entry-title"">The page can&rsquo;t be found.</h1>"
+		</header>
+"		<div class=""page-content"">"
+"		<p>It looks like nothing was found at this location.</p>"
 	</div>
 ""
-"	<div class=""login-form-container"">"
-"		<input type=""hidden"" id=""mtnc_login_check"" name=""mtnc_login_check"" value=""edbfa70b8d"" /><input type=""hidden"" name=""_wp_http_referer"" value=""/Data/Feeds/ForesideAmplify.40XL.XL_Holdings.csv"" /><form id=""login-form"" class=""login-form"" method=""post""><label>User Login</label><span class=""login-error""></span><span class=""licon user-icon""><input type=""text"" name=""log"" id=""log"" value="""" size=""20"" class=""input username"" placeholder=""Username"" /></span><span class=""picon pass-icon""><input type=""password"" name=""pwd"" id=""login_password"" value="""" size=""20"" class=""input password"" placeholder=""Password"" /></span><a class=""lost-pass"" href=""https://amplifyetfs.com/wp-login.php?action=lostpassword"">Lost Password</a><input type=""submit"" class=""button"" name=""submit"" id=""submit"" value=""Login"" /><input type=""hidden"" name=""is_custom_login"" value=""1"" /><input type=""hidden"" id=""mtnc_login_check"" name=""mtnc_login_check"" value=""edbfa70b8d"" /><input type=""hidden"" name=""_wp_http_referer"" value=""/Data/Feeds/ForesideAmplify.40XL.XL_Holdings.csv"" /></form>		    <div id=""btn-open-login-form"" class=""btn-open-login-form"">"
-"        <i class=""fi-lock""></i>"
+</main>
+"		<div data-elementor-type=""footer"" data-elementor-id=""119"" class=""elementor elementor-119 elementor-location-footer"" data-elementor-settings=""[]"">"
+"		<div class=""elementor-section-wrap"">"
+"					<section class=""elementor-section elementor-top-section elementor-element elementor-element-c4872d2 largepadd elementor-section-boxed elementor-section-height-default elementor-section-height-default"" data-id=""c4872d2"" data-element_type=""section"" data-settings=""{&quot;background_background&quot;:&quot;classic&quot;","&quot;_ha_eqh_enable&quot;:false}"">"
+"						<div class=""elementor-container elementor-column-gap-default"">"
+"					<div class=""elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1bb3d612"" data-id=""1bb3d612"" data-element_type=""column"">"
+"			<div class=""elementor-widget-wrap elementor-element-populated"">"
+"								<div class=""elementor-element elementor-element-bd54e54 elementor-widget elementor-widget-image"" data-id=""bd54e54"" data-element_type=""widget"" data-widget_type=""image.default"">"
+"				<div class=""elementor-widget-container"">"
+"															<img src=""https://amplifyetfs.com/wp-content/uploads/elementor/thumbs/Amplify-Stacked-White-pjifhdmh8zq09ns423dvac7a7z5am3l182ta8zs2rk.png"" title=""Amplify-Stacked-White"" alt=""Amplify-Stacked-White"" />															</div>"
+				</div>
+"				<div class=""elementor-element elementor-element-406d4d0 elementor-widget__width-auto elementor-widget elementor-widget-text-editor"" data-id=""406d4d0"" data-element_type=""widget"" data-widget_type=""text-editor.default"">"
+"				<div class=""elementor-widget-container"">"
+"			<style>/*! elementor - v3.5.4 - 23-01-2022 */"
+".elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<div class=""lpzz"">310 S. Hale St.<br />Wheaton"," IL 60187<br /><a href=""tel:1-855-267-3837""><strong>P:</strong> 855-267-3837</a><br /><a href=""mailto:info@amplifyetfs.com?subject=Mail from amplifyetfs.com"" target=""_blank"" rel=""noopener""><strong>E:</strong> info@amplifyetfs.com</a></div>						</div>"
+				</div>
+"				<div class=""elementor-element elementor-element-653de69 elementor-widget__width-auto elementor-widget elementor-widget-text-editor"" data-id=""653de69"" data-element_type=""widget"" data-widget_type=""text-editor.default"">"
+"				<div class=""elementor-widget-container"">"
+"							<p>Media Inquiries:<br />Gregory FCA<br /><a href=""mailto:amplifyetfs@gregoryfca.com?subject=Media inquiry from amplifyetfs.com"" target=""_blank"" rel=""noopener"">amplifyetfs@gregoryfca.com</a></p>						</div>"
+				</div>
+					</div>
+		</div>
+"				<div class=""elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7a75bc0d"" data-id=""7a75bc0d"" data-element_type=""column"">"
+"			<div class=""elementor-widget-wrap elementor-element-populated"">"
+"								<div class=""elementor-element elementor-element-7775df8 elementor-widget elementor-widget-heading"" data-id=""7775df8"" data-element_type=""widget"" data-widget_type=""heading.default"">"
+"				<div class=""elementor-widget-container"">"
+"			<style>/*! elementor - v3.5.4 - 23-01-2022 */"
+".elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class=""elementor-heading-title elementor-size-default"">Quick Links</h2>		</div>"
+				</div>
+"				<div class=""elementor-element elementor-element-54a5d0e elementor-widget-divider--view-line elementor-widget elementor-widget-divider"" data-id=""54a5d0e"" data-element_type=""widget"" data-widget_type=""divider.default"">"
+"				<div class=""elementor-widget-container"">"
+"			<style>/*! elementor - v3.5.4 - 23-01-2022 */"
+".elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator",".elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after",".elementor-widget-divider--view-line_icon .elementor-divider-separator:before",".elementor-widget-divider--view-line_text .elementor-divider-separator:after",".elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"""";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator",".elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after",".elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before",".elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}</style>		<div class=""elementor-divider"">"
+"			<span class=""elementor-divider-separator"">"
+						</span>
+		</div>
+				</div>
+				</div>
+"				<div class=""elementor-element elementor-element-00c3074 elementor-widget elementor-widget-heading"" data-id=""00c3074"" data-element_type=""widget"" data-widget_type=""heading.default"">"
+"				<div class=""elementor-widget-container"">"
+"			<h2 class=""elementor-heading-title elementor-size-default""><a href=""/about"">About</a></h2>		</div>"
+				</div>
+"				<div class=""elementor-element elementor-element-eabce83 elementor-widget elementor-widget-heading"" data-id=""eabce83"" data-element_type=""widget"" data-widget_type=""heading.default"">"
+"				<div class=""elementor-widget-container"">"
+"			<h2 class=""elementor-heading-title elementor-size-default""><a href=""/our-etfs"">Funds</a></h2>		</div>"
+				</div>
+"				<div class=""elementor-element elementor-element-9a009a3 elementor-widget elementor-widget-heading"" data-id=""9a009a3"" data-element_type=""widget"" data-widget_type=""heading.default"">"
+"				<div class=""elementor-widget-container"">"
+"			<h2 class=""elementor-heading-title elementor-size-default""><a href=""/connect"">Connect</a></h2>		</div>"
+				</div>
+"				<div class=""elementor-element elementor-element-b1a6e44 elementor-widget elementor-widget-heading"" data-id=""b1a6e44"" data-element_type=""widget"" data-widget_type=""heading.default"">"
+"				<div class=""elementor-widget-container"">"
+"			<h2 class=""elementor-heading-title elementor-size-default""><a href=""/privacy-policy"">Privacy Policy</a></h2>		</div>"
+				</div>
+					</div>
+		</div>
+"				<div class=""elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-645d3208 footflexendbut"" data-id=""645d3208"" data-element_type=""column"">"
+"			<div class=""elementor-widget-wrap elementor-element-populated"">"
+"								<div class=""elementor-element elementor-element-f474861 elementor-align-center elementor-mobile-align-center iconbut subscribepop alignfx footflexendbut elementor-widget elementor-widget-button"" data-id=""f474861"" data-element_type=""widget"" data-widget_type=""button.default"">"
+"				<div class=""elementor-widget-container"">"
+"					<div class=""elementor-button-wrapper"">"
+"			<a href=""#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIxNzIiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D"" class=""elementor-button-link elementor-button elementor-size-sm elementor-animation-grow"" role=""button"">"
+"						<span class=""elementor-button-content-wrapper"">"
+"						<span class=""elementor-button-icon elementor-align-icon-left"">"
+"				<svg xmlns:xlink=""http://www.w3.org/1999/xlink"" xmlns=""http://www.w3.org/2000/svg"" width=""45px"" height=""45px"" viewBox=""0 0 45 45""><desc>Created with Lunacy</desc><defs><image width=""512"" height=""512"" xlink:href=""data:image/png;base64","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"" id=""img_1""></image></defs><use xlink:href=""#img_1"" fill=""#FFFFFF"" stroke=""none"" transform=""scale(0.08789063 0.08789063)""></use></svg>			</span>"
+"						<span class=""elementor-button-text"">Subscribe</span>"
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+"				<div class=""elementor-element elementor-element-fa69ced footflexend elementor-widget elementor-widget-text-editor"" data-id=""fa69ced"" data-element_type=""widget"" data-widget_type=""text-editor.default"">"
+"				<div class=""elementor-widget-container"">"
+"							<div style=""text-align: center;"">"
+"<ul style=""display: inline-block; text-align: left; list-style: none; padding: 0px; margin: 0px;"">"
+" 	<li style=""margin-bottom: 25px;""><a style=""color: #ffffff;"" href=""https://twitter.com/amplifyetfs"" target=""_blank""><img class=""alignnone size-full wp-image-1436"" style=""position: relative; top: 12px; padding-right: 25px;"" src=""/wp-content/uploads/2020/01/twitter2.svg"" alt="""" />Twitter</a></li>"
+" 	<li style=""margin-bottom: 25px;""><a style=""color: #ffffff;"" href=""https://www.linkedin.com/company/amplify-etfs"" target=""_blank""><img class=""alignnone size-full wp-image-1436"" style=""position: relative; top: 12px; padding-right: 25px;"" src=""/wp-content/uploads/2020/01/linkedin2.svg"" alt="""" />LinkedIn</a></li>"
+" 	<li><a style=""color: #ffffff;"" href=""https://www.youtube.com/channel/UCzKe0bCXp7U0dit-bk0ysrw"" target=""_blank""><img class=""alignnone size-full wp-image-1436"" style=""position: relative; top: 12px; padding-right: 25px;"" src=""/wp-content/uploads/2020/01/youtube2.svg"" alt="""" />YouTube</a></li>"
+</ul>
+</div>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+"				<section class=""elementor-section elementor-top-section elementor-element elementor-element-7f50ff5 elementor-section-content-middle largepadd elementor-section-boxed elementor-section-height-default elementor-section-height-default"" data-id=""7f50ff5"" data-element_type=""section"" data-settings=""{&quot;background_background&quot;:&quot;classic&quot;","&quot;_ha_eqh_enable&quot;:false}"">"
+"						<div class=""elementor-container elementor-column-gap-default"">"
+"					<div class=""elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a6c7a8f"" data-id=""a6c7a8f"" data-element_type=""column"">"
+"			<div class=""elementor-widget-wrap elementor-element-populated"">"
+"								<div class=""elementor-element elementor-element-b9457b6 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"" data-id=""b9457b6"" data-element_type=""widget"" data-widget_type=""divider.default"">"
+"				<div class=""elementor-widget-container"">"
+"					<div class=""elementor-divider"">"
+"			<span class=""elementor-divider-separator"">"
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+"				<section class=""elementor-section elementor-top-section elementor-element elementor-element-d5a5c71 largepadd elementor-section-boxed elementor-section-height-default elementor-section-height-default"" data-id=""d5a5c71"" data-element_type=""section"" data-settings=""{&quot;background_background&quot;:&quot;classic&quot;","&quot;_ha_eqh_enable&quot;:false}"">"
+"						<div class=""elementor-container elementor-column-gap-default"">"
+"					<div class=""elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bd2357d"" data-id=""bd2357d"" data-element_type=""column"">"
+"			<div class=""elementor-widget-wrap elementor-element-populated"">"
+"								<div class=""elementor-element elementor-element-9476602 elementor-widget elementor-widget-text-editor"" data-id=""9476602"" data-element_type=""widget"" data-widget_type=""text-editor.default"">"
+"				<div class=""elementor-widget-container"">"
+"							Carefully consider the Funds’ investment objectives"," risk factors"," charges"," and expenses before investing. This and additional information can be found in Amplify Funds statutory and summary prospectus"," which may be obtained by calling 855-267-3837 or by visiting AmplifyETFs.com. Read the prospectus carefully before investing.						</div>"
+				</div>
+"				<div class=""elementor-element elementor-element-7b84f01 elementor-widget elementor-widget-text-editor"" data-id=""7b84f01"" data-element_type=""widget"" data-widget_type=""text-editor.default"">"
+"				<div class=""elementor-widget-container"">"
+"							Investing involves risk"," including the possible loss of principal. Shares of any ETF are bought and sold at market price (not NAV)"," may trade at a discount or premium to NAV and are not individually redeemed from the Fund. Brokerage commissions will reduce returns.						</div>"
+				</div>
+"				<div class=""elementor-element elementor-element-db28cc1 elementor-widget elementor-widget-text-editor"" data-id=""db28cc1"" data-element_type=""widget"" data-widget_type=""text-editor.default"">"
+"				<div class=""elementor-widget-container"">"
+"							Amplify ETFs are distributed by Foreside Fund Services"," LLC.						</div>"
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+"				<footer class=""elementor-section elementor-top-section elementor-element elementor-element-2aa3219a elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle"" data-id=""2aa3219a"" data-element_type=""section"" data-settings=""{&quot;background_background&quot;:&quot;classic&quot;","&quot;_ha_eqh_enable&quot;:false}"">"
+"						<div class=""elementor-container elementor-column-gap-default"">"
+"					<div class=""elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-215bd7b7"" data-id=""215bd7b7"" data-element_type=""column"">"
+"			<div class=""elementor-widget-wrap elementor-element-populated"">"
+"								<div class=""elementor-element elementor-element-90a19e4 elementor-widget elementor-widget-text-editor"" data-id=""90a19e4"" data-element_type=""widget"" data-widget_type=""text-editor.default"">"
+"				<div class=""elementor-widget-container"">"
+"							<p>Copyright 2022"," Amplify ETFs. All rights reserved.</p>						</div>"
+				</div>
+					</div>
+		</div>
+							</div>
+		</footer>
+				</div>
+		</div>
+		
+"		<div data-elementor-type=""popup"" data-elementor-id=""2172"" class=""elementor elementor-2172 elementor-location-popup"" data-elementor-settings=""{&quot;entrance_animation&quot;:&quot;fadeIn&quot;",&quot;open_selector&quot;:&quot;.subscribepop&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.1999999999999999555910790149937383830547332763671875,&quot;sizes&quot;:[]},"&quot;timing&quot;:[]}"">"
+"		<div class=""elementor-section-wrap"">"
+"					<section class=""elementor-section elementor-top-section elementor-element elementor-element-a48bad8 elementor-section-full_width elementor-section-height-default elementor-section-height-default"" data-id=""a48bad8"" data-element_type=""section"" data-settings=""{&quot;background_background&quot;:&quot;classic&quot;","&quot;_ha_eqh_enable&quot;:false}"">"
+"						<div class=""elementor-container elementor-column-gap-default"">"
+"					<div class=""elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-523f6be"" data-id=""523f6be"" data-element_type=""column"">"
+"			<div class=""elementor-widget-wrap elementor-element-populated"">"
+"								<section class=""elementor-section elementor-inner-section elementor-element elementor-element-231949a elementor-section-boxed elementor-section-height-default elementor-section-height-default"" data-id=""231949a"" data-element_type=""section"" data-settings=""{&quot;_ha_eqh_enable&quot;:false}"">"
+"						<div class=""elementor-container elementor-column-gap-default"">"
+"					<div class=""elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-3e8302e"" data-id=""3e8302e"" data-element_type=""column"">"
+"			<div class=""elementor-widget-wrap elementor-element-populated"">"
+"								<div class=""elementor-element elementor-element-84bf1be elementor-widget elementor-widget-heading"" data-id=""84bf1be"" data-element_type=""widget"" data-widget_type=""heading.default"">"
+"				<div class=""elementor-widget-container"">"
+"			<h2 class=""elementor-heading-title elementor-size-default"">Subscribe</h2>		</div>"
+				</div>
+"				<div class=""elementor-element elementor-element-7a77518 elementor-widget elementor-widget-heading"" data-id=""7a77518"" data-element_type=""widget"" data-widget_type=""heading.default"">"
+"				<div class=""elementor-widget-container"">"
+"			<div class=""elementor-heading-title elementor-size-default"">Receive the latest news and insights from Amplify.</div>		</div>"
+				</div>
+"				<div class=""elementor-element elementor-element-9e17922 elementor-widget elementor-widget-html"" data-id=""9e17922"" data-element_type=""widget"" data-widget_type=""html.default"">"
+"				<div class=""elementor-widget-container"">"
+"			<form accept-charset=""UTF-8"" method=""post"" action=""https://go.pardot.com/l/140091/2016-12-07/2bvth1"" class=""form"" id=""pardot-form"">"
 ""
+"    <div class=""halfdivfield"" style=""margin-right: 6px;""><span class=""fieldlabelstext""> First Name*</span><br>"
+"	<input class=""formfieldtext"" type=""text"" name=""140091_13750pi_140091_13750"" maxlength=""40"" placeholder=""FIRST NAME*"" required></div>"
+""
+"    <div class=""halfdivfield""><span class=""fieldlabelstext""> Last Name*</span><br>"
+"	<input class=""formfieldtext"" type=""text"" name=""140091_13752pi_140091_13752"" maxlength=""80"" placeholder=""LAST NAME*"" required></div>"
+""
+"    <div><span class=""fieldlabelstext""> Company Name</span><br>"
+"	<input class=""formfieldtext"" type=""text"" name=""140091_13754pi_140091_13754"" maxlength=""255"" placeholder=""COMPANY""></div>"
+"    "
+"    <div><span class=""fieldlabelstext""> Email*</span><br>"
+"	<input class=""formfieldtext"" type=""email"" name=""140091_13756pi_140091_13756"" maxlength=""255"" placeholder=""EMAIL*"" required></div>"
+"    "
+"    <div><span class=""fieldlabelstext""> Please select the category that describes you best:*</span><br>"
+"        <select class=""formfieldtext"" name=""140091_17185pi_140091_17185"" required>"
+"            <option value=""112421"">Choose...</option>"
+"            <option value=""112423"">Registered Investment Advisor</option>"
+"            <option value=""112425"">Broker Dealer</option>"
+"            <option value=""112427"">Institutional Advisor</option>"
+"            <option value=""112429"">Individual Investor</option>"
+"            <option value=""112431"">Other</option>"
+"        </select>"
 "    </div>"
-"    <div id=""btn-sound"" class=""btn-open-login-form sound"">"
-"        <i id=""value_botton"" class=""fa fa-volume-off"" aria-hidden=""true""></i>"
-"    </div>"
-"    	</div>"
-"<!--[if lte IE 10]>"
-"<script   type='text/javascript' src='https://amplifyetfs.com/wp-includes/js/jquery/jquery.min.js?ver=5.8.3' id='jquery_ie-js'></script>"
-<![endif]-->
-"<!--[if !IE]><!--><script   type='text/javascript' src='https://amplifyetfs.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>"
-"<!--<![endif]--><script type='text/javascript' id='_frontend-js-extra'>"
+"    "
+"    <div><span class=""fieldlabelstext""> Country*</span><br> "
+"	<input class=""formfieldtext"" type=""text"" name=""140091_26470pi_140091_26470"" maxlength=""80"" placeholder=""COUNTRY*"" required></div>"
+"     "
+"    <div style=""text-align: center;""><input type=""submit"" accesskey=""s"" value=""Submit"" class=""button secondary buttoninputform elementor-animation-grow""""/></div>"
+"<div style=""position:absolute; left:-9999px; top: -9999px;"">"
+""
+"    <label for=""pardot_extra_field"">Comments</label>"
+""
+"    <input class=""formfieldtext"" type=""text"" id=""pardot_extra_field"" name=""pardot_extra_field"">"
+""
+</div>
+</form>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				</div>
+		</div>
+"		<link rel='stylesheet' id='elementor-post-2172-css'  href='https://amplifyetfs.com/wp-content/uploads/elementor/css/post-2172.css?ver=1643078895' type='text/css' media='all' />"
+"<link rel='stylesheet' id='e-animations-css'  href='https://amplifyetfs.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.4' type='text/css' media='all' />"
+"<script type='text/javascript' id='happy-elementor-addons-js-extra'>"
 "/* <![CDATA[ */"
-"var mtnc_front_options = {""body_bg"":""https:\/\/amplifyetfs.com\/wp-content\/uploads\/2020\/10\/amplify-bg-about.jpg""",gallery_array:[],"blur_intensity:""1""","font_link:[""Open Sans:300",300italic,regular,italic,600,600italic,700,700italic,800,"800italic:300""]};"
+"var HappyLocalize = {""ajax_url"":""https:\/\/amplifyetfs.com\/wp-admin\/admin-ajax.php""","nonce:""8ee91635d3""","pdf_js_lib:""https:\/\/amplifyetfs.com\/wp-content\/plugins\/happy-elementor-addons\/assets\/vendor\/pdfjs\/lib""};"
 "/* ]]> */"
 </script>
-"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/maintenance/load/js/jquery.frontend.js?ver=1643077308' id='_frontend-js'></script>"
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js?ver=3.4.0' id='happy-elementor-addons-js'></script>"
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.6' id='page-links-to-js'></script>"
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-includes/js/wp-embed.min.js?ver=5.8.3' id='wp-embed-js'></script>"
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>"
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.5.2' id='elementor-pro-webpack-runtime-js'></script>"
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.4' id='elementor-webpack-runtime-js'></script>"
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.4' id='elementor-frontend-modules-js'></script>"
+"<script   type='text/javascript' id='elementor-pro-frontend-js-before'>"
+"var ElementorProFrontendConfig = {""ajaxurl"":""https:\/\/amplifyetfs.com\/wp-admin\/admin-ajax.php""","nonce:""d27a84d1bc""","urls:{""assets"":""https:\/\/amplifyetfs.com\/wp-content\/plugins\/elementor-pro\/assets\/""","rest:""https:\/\/amplifyetfs.com\/wp-json\/""}","i18n:{""toc_no_headings_found"":""No headings were found on this page.""}","shareButtonsNetworks:{""facebook"":{""title"":""Facebook""",has_counter:true},"twitter:{""title"":""Twitter""}","linkedin:{""title"":""LinkedIn""",has_counter:true},"pinterest:{""title"":""Pinterest""",has_counter:true},"reddit:{""title"":""Reddit""",has_counter:true},"vk:{""title"":""VK""",has_counter:true},"odnoklassniki:{""title"":""OK""",has_counter:true},"tumblr:{""title"":""Tumblr""}","digg:{""title"":""Digg""}","skype:{""title"":""Skype""}","stumbleupon:{""title"":""StumbleUpon""",has_counter:true},"mix:{""title"":""Mix""}","telegram:{""title"":""Telegram""}","pocket:{""title"":""Pocket""",has_counter:true},"xing:{""title"":""XING""",has_counter:true},"whatsapp:{""title"":""WhatsApp""}","email:{""title"":""Email""}","print:{""title"":""Print""}}","facebook_sdk:{""lang"":""en_US""","app_id:""""}","lottie:{""defaultAnimationUrl"":""https:\/\/amplifyetfs.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json""}};"
+</script>
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.5.2' id='elementor-pro-frontend-js'></script>"
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>"
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>"
+"<script   type='text/javascript' id='elementor-frontend-js-before'>"
+"var elementorFrontendConfig = {""environmentMode"":{""edit"":false",wpPreview:false,isScriptDebug:false},"i18n:{""shareOnFacebook"":""Share on Facebook""","shareOnTwitter:""Share on Twitter""","pinIt:""Pin it""","download:""Download""","downloadImage:""Download image""","fullscreen:""Fullscreen""","zoom:""Zoom""","share:""Share""","playVideo:""Play Video""","previous:""Previous""","next:""Next""","close:""Close""}",is_rtl:false,"breakpoints:{""xs"":0",sm:480,md:768,lg:1025,xl:1440,xxl:1600},"responsive:{""breakpoints"":{""mobile"":{""label"":""Mobile""",value:767,default_value:767,"direction:""max""",is_enabled:true},"mobile_extra:{""label"":""Mobile Extra""",value:880,default_value:880,"direction:""max""",is_enabled:false},"tablet:{""label"":""Tablet""",value:1024,default_value:1024,"direction:""max""",is_enabled:true},"tablet_extra:{""label"":""Tablet Extra""",value:1200,default_value:1200,"direction:""max""",is_enabled:false},"laptop:{""label"":""Laptop""",value:1366,default_value:1366,"direction:""max""",is_enabled:false},"widescreen:{""label"":""Widescreen""",value:2400,default_value:2400,"direction:""min""",is_enabled:false}}},"version:""3.5.4""",is_static:false,"experimentalFeatures:{""e_dom_optimization"":true",e_optimized_assets_loading:true,e_optimized_css_loading:true,a11y_improvements:true,e_import_export:true,e_hidden_wordpress_widgets:true,theme_builder_v2:true,landing-pages:true,elements-color-picker:true,favorite-widgets:true,admin-top-bar:true,form-submissions:true},"urls:{""assets"":""https:\/\/amplifyetfs.com\/wp-content\/plugins\/elementor\/assets\/""}","settings:{""editorPreferences"":[]}","kit:{""viewport_mobile"":767",viewport_tablet:1024,"active_breakpoints:[""viewport_mobile""",viewport_tablet],"global_image_lightbox:""yes""","lightbox_enable_counter:""yes""","lightbox_enable_fullscreen:""yes""","lightbox_enable_zoom:""yes""","lightbox_enable_share:""yes""","lightbox_title_src:""title""","lightbox_description_src:""description""}","post:{""id"":0","title:""Page not found &#8211; Amplify ETFs""","excerpt:""""}};"
+</script>
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.4' id='elementor-frontend-js'></script>"
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.5.2' id='pro-elements-handlers-js'></script>"
+"<script type='text/javascript' id='jet-tabs-frontend-js-extra'>"
+"/* <![CDATA[ */"
+"var JetTabsSettings = {""ajaxurl"":""https:\/\/amplifyetfs.com\/wp-admin\/admin-ajax.php""","isMobile:""false""","templateApiUrl:""https:\/\/amplifyetfs.com\/wp-json\/jet-tabs-api\/v1\/elementor-template""","devMode:""false""};"
+"/* ]]> */"
+</script>
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js?ver=2.1.13' id='jet-tabs-frontend-js'></script>"
+"<script   type='text/javascript' src='https://amplifyetfs.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.5.2' id='e-sticky-js'></script>"
+"<link rel=""prefetch"" href=""https://amplifyetfs.com/wp-content/plugins/lh-sortable-tables/scripts/sortable.mega-advanced.js?ver=1643075035"" />"
+"<link rel=""prefetch"" href=""https://amplifyetfs.com/wp-content/plugins/lh-sortable-tables/styles/sortable.css?ver=1643075035"" />"
 ""
 </body>
 </html>
